@@ -16,6 +16,10 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
+    - hi SNU
+    - hy SNU bot
+    - hi SNU bot
+
 
 - intent: goodbye
   examples: |
@@ -89,3 +93,395 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+- intent: admission
+  examples: |
+    - What is the admission procedure for SNU Chennai?
+    - What is the admission procedure for Shiv Nadar University Chennai?
+    - How can my son get admission in SNU Chennai?
+    - How can my daughter get admission in SNU Chennai?
+    - When does the admision start for the 2023-2027 batch.
+
+- intent: scholarship 
+  examples: |
+    - how can i get scholarship?
+    - criteria for scholarship
+    - scholarship
+    - financial aid
+    - Can anyone guide me about scholarship...? 
+    - I need information about the scholarship procedure.
+    - I need guidance through the procedure of scholarship application ? 
+    - I need guidance for the application of scholarship. 
+    - What is the process of scholarship application ? 
+    - I need information of the procedure of application of scholarship ?
+    - what is the process of scholarship?
+    - how can I get scholarship?
+    - what is the process of financial aid?
+    - how can I get financial aid?
+    - what is the process of need based scholarship
+    - what about study loan
+    - how can I get study loan
+    - how can I apply for study loan
+    - how can I apply for financial aid
+    - where can I apply for financial aid?
+    - where can I apply for scholarship?
+    - is there a scholorship for sports category?
+
+
+- intent: snu
+  examples: |
+    - why SNU?
+    - is SNU number 1 university?
+    - why should i choose SNU university?
+    - why SNU is good for me?
+    - why should i apply at SNU university?
+    - why SNU university?
+    - is Shiv Nadar University number 1 university?
+    -	why should i choose Shiv Nadar University university?
+    -	why Shiv Nadar University is good for me?
+    -	why should i apply at Shiv Nadar University university?
+    -	why Shiv Nadar University university?
+
+
+- intent: course_details
+  examples: |
+    - what are the available courses?
+    - course available
+    - available course
+    - What fields of Engineering is offered by SNU university ?
+    - Engineering in SNU university is divided into which different offered fields ?
+    - Which fields of Engineering does SNU university offer to its students ?
+    - What are the sections of Engineering that are offered by SNU university ?
+    - What sections of Engineering does SNU university offer ?
+    - which degree programs are being offered for undergraduate students
+    - which degree programs are being offered for graduate students
+    - which degree programs are being offered for post graduates
+    - which degree programs are being offered for phd
+
+
+- intent: duration
+  examples: |
+    - what is the duration of each course ?
+    - duration of each course
+    - course duration
+    - 3 or 4 years 
+    - what is the duration for Btech?information
+    - what is the duration for BCom?
+    - what is the duration for BSc?
+    - what is the duration for AI?
+    - what is the duration for IoT?
+    - what is the duration for Cyber Security?
+    - what is the duration for Bcom Honrs?
+    - what is the duration for Economics?
+    - Can extension be provided to maximum duration allowed for a degree?
+    - What will happen if student exceed the maximum duration allowed for degree?
+    - What will happen after completion of maximum duration allowed to earn a degree ?
+    - If a student does not earn a degree in the maximum duration alloted to him, what would happen ?
+    - duration of a degree
+    - time to complete a degree
+    - duration to earn a degree
+    - how much time it take to earn adegree
+    - maximum time to earn  a degree
+
+- intent: past_papers
+  examples: |
+    -	where can I get sample exam papers
+    -	sample exam papers
+    -	past papers
+    -	Do anyone have online material for the prepration of SNU admission exam or anylink plz let me know if anyone have??
+    -	I need online preparation material for the SNU admission exam.
+    -	What are the updates of the links to online material for the preparation of SNU admission exam ?
+    -	What is the information regarding the preparation of SNU admission exam through online learning and links ?
+    -	Online material and links for the preparation of SNU admission exam are urgently needed, I need information regarding this ?
+    -	Online material for the preparation of SNU admission exam is required, What are the updates with regards to this ?
+    -	Where can we get past papers of SNU regarding the entry exam ?
+    -	Where are the past paper of SNU entry exam available ?
+    -	Where can I get the past papers of SNU entry exam ?
+    -	Is there anyway I could find the past papers of SNU entry exam ?
+    -	Where would I be able to get a hold of the past paper of SNU entry exam ?
+    -	What is syllabus of entry exam As I am an CBSE student
+    -	What is the syllabus of entry exam for an CBSE student ?
+    -	What would the syllabus of entry exam be for a student who has cleared CBSE ?
+    -	I need information about the syllabus of entry exam as I am an CBSE student.
+    -	I have cleared my CBSE, what would the syllabus of entry exam be for me ?
+    -	What syllabus to I have to go through for entry exam being a student of CBSE ?
+    -	How can a person prepare for the SNU entry?
+    -	What are the ways to prepare for the SNU entry exam?
+    -	Does anyone know how to prepare for entry exam of SNU?
+    -	where can we get past papers of SNU ?
+    -	Where are the past paper of SNU available ?
+    -	Where will I be able to get past papers of SNU from ?
+    -	Is there anyway I could find the past papers of SNU ?
+    -	Where would I be able to get a hold of the past paper of SNU
+    -	I need online preparation material for the SHIV NADAR admission exam.
+    -	What are the updates of the links to online material for the preparation of SHIV NADAR admission exam ?
+    -	What is the information regarding the preparation of SHIV NADAR admission exam through online learning and links ?
+    -	Online material and links for the preparation of Shiv Nadar University admission exam are urgently needed, I need information regarding this ?
+    -	Online material for the preparation of Shiv Nadar University admission exam is required, What are the updates with regards to this ?
+    -	Where can we get past papers of Shiv Nadar University regarding the entry exam ?
+    -	Where are the past paper of Shiv Nadar University entry exam available ?
+    -	Where can I get the past papers of Shiv Nadar University entry exam ?
+    -	Is there anyway I could find the past papers of Shiv Nadar University entry exam ?
+    -	Where would I be able to get a hold of the past paper of Shiv Nadar University entry exam ?
+    -	What is syllabus of entry exam As I am an CBSE student
+    -	What is the syllabus of entry exam for an CBSE student ?
+    -	What would the syllabus of entry exam be for a student who has cleared CBSE ?
+    -	I need information about the syllabus of entry exam as I am an CBSE student.
+    -	I have cleared my CBSE, what would the syllabus of entry exam be for me ?
+    -	What syllabus to I have to go through for entry exam being a student of CBSE ?
+    -	How can a person prepare for the SHIV NADAR entry?
+    -	What are the ways to prepare for the SHIV NADAR entry exam?
+    -	Does anyone know how to prepare for entry exam of Shiv Nadar University?
+    -	where can we get past papers of Shiv Nadar University ?
+    -	Where are the past paper of Shiv Nadar University available ?
+    -	Where will I be able to get past papers of Shiv Nadar University from ?
+    -	Is there anyway I could find the past papers of Shiv Nadar University ?
+    -	Where would I be able to get a hold of the past paper of Shiv Nadar University
+
+- intent: classes
+  examples: |
+    -What is the duration of reschedule class?
+    -How long can a class be scheduled for in case of necessity ?
+    -If necessary, will the class be scheduled for a longer period ?
+    -How long does one period/classroom-teaching hour lasts for ?
+    -How much time is one period of ?
+    -how much time is a class?
+    -what is timing of class?
+    -duration of a period
+    -duration of a class
+    -duration of a single class
+
+- intent: course_details
+  examples: |
+    - what are the available courses?
+    - course available
+    - available course
+    - What fields of Engineering is offered by SNU university ?
+    - Engineering in SNU university is divided into which different offered fields ?
+    - Which fields of Engineering does SNU university offer to its students ?
+    - What are the sections of Engineering that are offered by SNU university ?
+    - What sections of Engineering does SNU university offer ?
+    - which degree programs are being offered for undergraduate students
+    - which degree programs are being offered for graduate students
+    - which degree programs are being offered for post graduates
+    - which degree programs are being offered for phd
+
+- intent: semester_plan
+  examples: |
+    -Duration of each semester	
+    -When does semester start from?
+    -semester start
+    -semester duration
+    -How many weeks is a regular semester of ?
+    -How does the distribution of weeks occur in a regular semester ?
+    -how many week are there in a semester
+    -what is the duration of a semester
+    -how big a semester is
+    -how many weeks in semester
+    -weeks in a semester
+    -how many weeks in a semester
+
+- intent: odd_semester
+  examples: |
+    -when does the odd semester start approximately?
+    -what is the differnece between odd and even semester?
+    -how long is the odd semester for?
+    -when does the odd semester end?
+    -should I join during odd semester?
+    -why should I join during odd semester?
+    -can I join during odd semester?
+
+- intent: even_semester
+  examples: |
+    -when does the even semester start approximately?
+    -what is the differnece between odd and even semester?
+    -how long is the even semester for?
+    -when does the even semester end?
+    -should I join during even semester?
+    -why should I join during even semester?
+    -can I join during even semester?
+
+- intent: job_rate
+  examples: |
+    - job rate at SNU
+    - what is job rate of SNU  
+    - job rate 
+    - job rate SNU
+    - job rate at SNU
+    - job rate at SNU university
+    - what is job rate at SNU university
+
+- intent: placements
+  examples: |
+    - top recruiting companies
+    - what are the top recruiting companies
+    - list of all recruiting companies
+    - companies for placements
+    - placement rate
+    - what is the placement rate
+
+- intent: hostel
+  examples: |
+    - is there hostel available
+    - hostel for girls
+    - hostel facility
+    - oncampus hostel
+    - incampus hostel
+    - hostel timings
+    - curfew
+
+- intent: credit_hour
+  examples: |
+    - what do you mean by credit hours
+    - what is credit hour?
+    - credit hour means?
+    - meaning of credit hour?
+    - how you define credit hour?
+    - definition of credit hour?
+
+- intent: graduation
+  examples: |
+    - duration of graduation
+    - how many credit hours are required to graduate
+    - credit hours for graduation
+    - how many credit hours are in bachelors degree for graduation
+    - graduation period
+    - maximum years to graduate
+
+- intent: medals
+  examples: |
+    - What is the eligibility criteria for medals and certificate?
+    - Which students will be awarded with medals and certificates?
+    - What is the eligibility for medal and certificates ?
+    - What are the requirements for medals and certificates ?
+    - What will be the remarks on the degree if a student has 3.90 plus CGPA?
+    - What will be the remarks on the degree if a student has 3.90 plus CGPA?
+    - gpa required for medal
+    - how can i get a medal
+    - medal eligibilty
+    - honor policy
+
+- intent: contacts
+  examples: |
+    - how to contact SNU
+    - contact details
+    - how to connect with SNU
+    - how to reach SNU
+    - SNU contact number
+    - SNU contact 
+
+- intent: snu_ch
+  examples: |
+    - where is SNU chennai
+    - where is SNU chennai located 
+    - SNU chennai address
+    - SNU chennai location
+    - SNU chennai address
+    - location of SNU chennai
+    - where is SNU ch
+    - where is SNU ch located 
+    - SNU ch address
+    - SNU ch location
+    - SNU ch address
+    - location of SNU ch
+
+- intent: snu_delhi
+  examples: |
+    - where is SNU delhi
+    - where is SNU delhi located 
+    - SNU delhi address
+    - location of SNU delhi
+
+- intent: SNU_ch_SNU_delhi
+  examples: |
+    - are both SNU chennai and SNU delhi same?
+    - SNU chennai and SNU delhi same
+    - SNU chennai differnent from SNU delhi
+
+- intent: library
+  examples: |
+    - is library available at SNU
+    - library at SNU
+    - library service at SNU
+    - library in SNU
+    - ebooks
+    - can books be borrowed
+
+- intent: cafeteria
+  examples: |
+    - is cafeteria available at SNU
+    - cafeteria
+    - cafe
+    - restaurant
+    - canteen
+    - canteen timings
+    - cafeteria timings
+
+- intent: auditorium
+  examples: |
+    - is auditorium available at SNU
+    - auditorium in SNU
+    - auditorium
+
+- intent: best_campus
+  examples: |
+    - which is best campus
+    - which campus is better 
+    - best campus
+    - best campus of SNU delhi or chennai
+
+- intent: SSN_SNU
+  examples: |
+    - are both SSN and SNU same
+    - SSN SNU different
+
+- intent: students_affair
+  examples: |
+    - is there a student affair council
+    - where is student affair office
+    - student affair office
+    - office of student affair
+
+- intent: VC
+  examples: |
+    - who is VC of university
+    - who is chancellor of SNU
+    - who is VC of SNU
+    - who is your VC
+    - who is SNU VC
+    - VC of SNU
+
+- intent: admission_schedule
+  examples: |
+    - deadline for admission forms?
+    - admissions deadline?
+    - last date to apply?
+    - admission dates?
+    - schedule for admission dates?
+    - when can i apply for admission at SNU?
+    - when will test take place?
+    - when test will held
+    - when should i apply for test
+    - dates for apply?
+    - dates for admission?
+    - dates for admission test?
+    - dates of application submission?
+    - What is last date of SNU test 
+    - when is the last date of SNU test ? 
+    - What would be the last date of the test of SNU ? 
+    - What is the schedule for the SNU Test ? 
+    - What is the information regarding the last date of SNU test ? 
+    - What are the updates about the last date of SNU test ? 
+    - What are the starting and ending dates of the admissions ?
+    - When will the admission start and end ?
+    - What is the information regarding the opening and closing date of admissions ?
+    - What are the updates with regards to the starting and ending - date of admission ?
+    - When will the admissions open and close ?
+    - where result will be announced
+    - when result will be announced for admission test
+
+
+
+
+
+

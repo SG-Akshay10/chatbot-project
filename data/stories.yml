@@ -28,3 +28,15 @@ stories:
   - action: utter_did_that_help
   - intent: deny
   - action: utter_goodbye
+
+- story: bot supplies admission info
+  steps:
+  - intent: admission
+  - action: utter_admission
+
+- story: bot supplies scholarship info
+  steps:
+  - intent: scholarship
+    entities:
+    - year
+  - action: utter_scholarship

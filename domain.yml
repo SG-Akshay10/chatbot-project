@@ -8,6 +8,9 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - admission
+  - scholarship
+  - snu
 
 responses:
   utter_greet:
@@ -28,6 +31,18 @@ responses:
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
+
+  utter_admission:
+  - text: "The admission for the year {year} is currently closed. Please check https://www.snuchennai.edu.in for further updates.Is there something else I can help you with?"
+  - text: "The admission for the year {year} is currently closed. Admission for the batch {year} will begin soon.Please check https://www.snuchennai.edu.in for further updates.Is there something else I can help you with?"
+
+  utter_scholarship:
+  - text: "Yes scholarship/Financial Aid/Study loan are available at SNU Chennai. Visit to learn about them at: https://www.snuchennai.edu.in"
+  - text: "YES, Scholarships/Financial Aid/Study loan are available at SNU. Visit to learn about them at: https://www.snuchennai.edu.in"
+
+  utter_snu:
+  - text: "Based in a sprawling campus shared with SSN Institutions, Shiv Nadar University, Chennai is committed to academic excellence. Thanks to its close links to HCL, a US$ 11 billion global enterprise, the University has a keen understanding of the evolving academic and professional requirements in India and abroad. Each program is designed to help talented students become a successful, job-ready professional or a world-class academic. The University promotes a culture of academic rigour, supported by ample resources, including one of the best-equipped libraries in Southern India, and extensive, world-class research facilities. The University strongly believes that its role is not limited to disseminating knowledge but to act as a catalyst for research, discovery and creation of new forms of expression and aims to become a world-class centre for research. Driven by a belief in the need for all-round development, students are provided ample sports facilities and rich campus life."
+
 
 session_config:
   session_expiration_time: 60
