@@ -480,6 +480,30 @@ nlu:
     - where result will be announced
     - when result will be announced for admission test
 
+- intent: inquiry_faculty
+  examples: |
+    - Can you tell me about the faculty?
+    - Who teaches at the university?
+    - Can you provide information about the professors?
+    - What are the qualifications of the faculty?
+    - Can you tell me about the teaching staff?
+
+- intent: inquiry_student_life
+  examples: |
+    - Can you tell me about student life?
+    - What is it like to be a student at the university?
+    - Can you provide information about campus life?
+    - What are the extracurricular activities?
+    - Can you tell me about the social scene?
+
+- intent: inquiry_location
+  examples: |
+    - Where is the university located?
+    - Can you tell me about the location of the university?
+    - Can you provide information about the campus?
+    - Where is the campus?
+    - Can you give me directions to the university?
+
 
 
 
