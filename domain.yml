@@ -90,8 +90,8 @@ responses:
   - text: "Medals and Scholarship will be awarded to students with exceptional Academic and Extracurricular perfomances."
   
   utter_contacts:
-  - text: ""
-  
+  - text: "You can contact SNU chennai with the following number : 7200658175 / 9043567057 / 1800 208 1199 "
+  - text: "The following mail id's can be used to contact : info@snuchennai.edu.in admissions@snuchennai.edu.in"
   utter_snu_ch:
   - text: "This is the address of Shiv Nadar University Chennai,Rajiv Gandhi Salai (OMR),Kalavakkam – 603 110,Chengalpattu (Dt), Tamil Nadu, India."
   - text: "SNU Chennai is located in Kalavakkam,Chennai-603110,Tamil Nadu."
