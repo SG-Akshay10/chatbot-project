@@ -44,7 +44,7 @@ responses:
   - text: "Based in a sprawling campus shared with SSN Institutions, Shiv Nadar University, Chennai is committed to academic excellence. Thanks to its close links to HCL, a US$ 11 billion global enterprise, the University has a keen understanding of the evolving academic and professional requirements in India and abroad. Each program is designed to help talented students become a successful, job-ready professional or a world-class academic. The University promotes a culture of academic rigour, supported by ample resources, including one of the best-equipped libraries in Southern India, and extensive, world-class research facilities. The University strongly believes that its role is not limited to disseminating knowledge but to act as a catalyst for research, discovery and creation of new forms of expression and aims to become a world-class centre for research. Driven by a belief in the need for all-round development, students are provided ample sports facilities and rich campus life."
   
   utter_admission_open:
-  - text: "The admission for the year {year} is currently ongoing. Please check https://www.snuchennai.edu.in for further updates.Is there something else I can help you with?""
+  - text: "The admission for the year {year} is currently ongoing. Please check https://www.snuchennai.edu.in for further updates.Is there something else I can help you with?"
 
   utter_hostel:
   - text: "hostel facilities are spacious and comfortable with an option for air-conditioning. Separate, self-contained facilities are available for boys and girls along with dining and kitchen."
@@ -60,22 +60,23 @@ responses:
   - text: "B.Sc. Economics (Data Science) a 3 year course which purposes to level with domain knowledge in Economics, Finance and Data Analysis"
   
   utter_semester_plan:
-  - text: ""
+  - text: "Each Semester ranges from 5-6 months in duration the odd semester starts after summer break around june and even semester starts after winter,It consists of 2 CIA tests a Midsem and a Endsem."
+  - text: "Each Semester ranges from 20-30 weeks in duration the odd semester starts after summer break around june and even semester starts after winter,It consists of 2 CIA tests a Midsem and a Endsem."
   
   utter_odd_semester:
-  - text: ""
+  - text: "Each Odd Semester ranges from 5-6 months in duration the odd semester starts after summer break around june.It consists of 2 CIA tests a Midsem and a Endsem."
+  - text: "Each Odd Semester ranges from 20-30 weeks in duration the odd semester starts after summer break around june.It consists of 2 CIA tests a Midsem and a Endsem."
   
   utter_even_semester:
-  - text: ""
+  - text: "Each Even Semester ranges from 4-5 months in duration the odd semester starts after winter break around december.It consists of 2 CIA tests a Midsem and a Endsem."
+  - text: "Each Even Semester ranges from 16-22 weeks in duration the odd semester starts after winter break around december.It consists of 2 CIA tests a Midsem and a Endsem."
   
   utter_job_rate:
-  - text: ""
+  - text: "Number of offers received: 1315,Number of offers over 20 Lakh: 77,Number of offers over 10 Lakh: 31,Highest offer: 1.17 Crore per annum,Second highest offer: 84.24 Lakh per annum,Average salary for the top 10% selection: 29.52 Lakh per annum,Average salary for the top 25% selection:20.05 Lakh per annum"
   
   utter_placements:
-  - text: ""
-  
-  utter_hostel:
-  - text: ""
+  - text: "Placements at Shiv Nadar University Chennai will be handled by the same team which has churned out excellent placements for SSN over the years."
+  - text: "A comprehensive diagnostic test will be conducted on all the students to make them aware of their strengths and weakness and a training calendar prepared based on the results of this test.the career development centre will also be instrumental in preparing students for various career opportunities and higher education through focused training, industry exposure, lectures by top practitioners from various fields and internships."
   
   utter_credit_hour:
   - text: ""
@@ -90,8 +91,8 @@ responses:
   - text: ""
   
   utter_snu_ch:
-  - text: ""
-  
+  - text: "This is the address of Shiv Nadar University Chennai,Rajiv Gandhi Salai (OMR),Kalavakkam – 603 110,Chengalpattu (Dt), Tamil Nadu, India."
+  - text: "SNU Chennai is located in Kalavakkam,Chennai-603110,Tamil Nadu."
   
 session_config:
   session_expiration_time: 60
