@@ -48,6 +48,44 @@ responses:
 
   utter_hostel:
   - text: ""
+  
+  utter_course_details:
+  - text: ""
+  
+  utter_semester_plan:
+  - text: ""
+  
+  utter_odd_semester:
+  - text: ""
+  
+  utter_even_semester:
+  - text: ""
+  
+  utter_job_rate:
+  - text: ""
+  
+  utter_placements:
+  - text: ""
+  
+  utter_hostel:
+  - text: ""
+  
+  utter_credit_hour:
+  - text: ""
+  
+  utter_graduation:
+  - text: ""
+  
+  utter_medals:
+  - text: ""
+  
+  utter_contacts:
+  - text: ""
+  
+  utter_snu_ch:
+  - text: ""
+  
+  
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
