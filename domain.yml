@@ -47,10 +47,17 @@ responses:
   - text: "The admission for the year {year} is currently ongoing. Please check https://www.snuchennai.edu.in for further updates.Is there something else I can help you with?""
 
   utter_hostel:
-  - text: ""
+  - text: "hostel facilities are spacious and comfortable with an option for air-conditioning. Separate, self-contained facilities are available for boys and girls along with dining and kitchen."
+  - text: "Hostel facilities are available with world class sports facilities,international hostels with an option of air-conditioning and mess food which tastes like home."
+  - text: "https://youtu.be/zv7DvRRIBy4 here is a link of the world class hostel and campus facilities."
   
   utter_course_details:
-  - text: ""
+  - text: "B. Tech Computer Science and Engineering (Aritificial Intelligence and Data Science) is a 4 year course to make you industry ready by in-depth learning in basic as well as advanced Probability and Statistics, rigorous practical skills in multiple programming language environments such as Python and Java, state-of-the-art Machine Learning(ML) and Deep Learning(DL) frameworks, Extensive knowledge in Artificial Intelligence, Image, video, text and speech analysis using ML/DL and Big Data Analytics using distributed technologies."
+  - text: "B. Tech Computer Science and Engineering (Internet of Things) is a 4 year course provided by the school engineering on how to implement IoT based systems and computer engineering"
+  - text: "B. Tech Computer Science and Engineering (Cyber Security). is a 4 year course on computer science engineering specialised on how to implement cryptography, cybersecurity principles, cyber forensics, intrusion prevention mechanisms, cybercrime, cyber threats and vulnerabilities, AI for cybersecurity etc."
+  - text: "B. Com / B. Com (Hons) is a 3 year program students of B.Com program who maintain a CGPA of 8.0 and above in Semesters 1-3 are eligible to apply for the Honours designation. The curriculm is mainly based on a strong foundation in accounting, ﬁnance, laws & taxation"
+  - text: "B. Com (Professional Accounting) is a 3 year program which will prepare students to take up the prestigious CA exam and learn accounting, ﬁnance, laws & taxation and gain a strong understanding in quantitative methods, computing and economics" 
+  - text: "B.Sc. Economics (Data Science) a 3 year course which purposes to level with domain knowledge in Economics, Finance and Data Analysis"
   
   utter_semester_plan:
   - text: ""
