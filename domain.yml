@@ -79,13 +79,15 @@ responses:
   - text: "A comprehensive diagnostic test will be conducted on all the students to make them aware of their strengths and weakness and a training calendar prepared based on the results of this test.the career development centre will also be instrumental in preparing students for various career opportunities and higher education through focused training, industry exposure, lectures by top practitioners from various fields and internships."
   
   utter_credit_hour:
-  - text: ""
+  - text: "A credit hour is the number of hours of classes you will have per week for the number of credits alloted for the subject,Typically in SNU there will 1 hour per credit alloted to a subject."
+  - text: "A credit hour is the number of hours of classes you will have per week for the number of credits alloted for the subject,In Shiv Nadar University there will 1 hour per credit alloted to a subject.For example if there is a 3 credit subject it will have 3 hours of class a week excluding lab sessions."
   
   utter_graduation:
-  - text: ""
+  - text: "There is a 4 year Duration for the courses offered by the school of engineering with 162 credits ranging over the span of 8 semester including a capstone project."
+  - text: "The course duration is 3 year duration till graduation for the courses offered by the school of commerce and humanities over the span of 6 semesters with a total of 143 credits."
   
   utter_medals:
-  - text: ""
+  - text: "Medals and Scholarship will be awarded to students with exceptional Academic and Extracurricular perfomances."
   
   utter_contacts:
   - text: ""
