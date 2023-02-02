@@ -12,8 +12,8 @@ intents:
   - admission
   - scholarship
   - snu
-  - course_details
   - duration
+
   - past_papers
   - classes
 
@@ -102,6 +102,89 @@ responses:
   - text: "The duration for a Cyber Security program at SNU is 4 years."
   - text: "The duration for a Bcom Honors program at SNU is typically 3 years."
   - text: "The duration for an Economics program at SNU is 3 years."
+
+
+
+  utter_hostel:
+  - text: "hostel facilities are spacious and comfortable with an option for air-conditioning. Separate, self-contained facilities are available for boys and girls along with dining and kitchen."
+  - text: "Hostel facilities are available with world class sports facilities,international hostels with an option of air-conditioning and mess food which tastes like home."
+  - text: "https://youtu.be/zv7DvRRIBy4 here is a link of the world class hostel and campus facilities."
+  
+  utter_course_details:
+  - text: "B. Tech Computer Science and Engineering (Aritificial Intelligence and Data Science) is a 4 year course to make you industry ready by in-depth learning in basic as well as advanced Probability and Statistics, rigorous practical skills in multiple programming language environments such as Python and Java, state-of-the-art Machine Learning(ML) and Deep Learning(DL) frameworks, Extensive knowledge in Artificial Intelligence, Image, video, text and speech analysis using ML/DL and Big Data Analytics using distributed technologies."
+  - text: "B. Tech Computer Science and Engineering (Internet of Things) is a 4 year course provided by the school engineering on how to implement IoT based systems and computer engineering"
+  - text: "B. Tech Computer Science and Engineering (Cyber Security). is a 4 year course on computer science engineering specialised on how to implement cryptography, cybersecurity principles, cyber forensics, intrusion prevention mechanisms, cybercrime, cyber threats and vulnerabilities, AI for cybersecurity etc."
+  - text: "B. Com / B. Com (Hons) is a 3 year program students of B.Com program who maintain a CGPA of 8.0 and above in Semesters 1-3 are eligible to apply for the Honours designation. The curriculm is mainly based on a strong foundation in accounting, ﬁnance, laws & taxation"
+  - text: "B. Com (Professional Accounting) is a 3 year program which will prepare students to take up the prestigious CA exam and learn accounting, ﬁnance, laws & taxation and gain a strong understanding in quantitative methods, computing and economics" 
+  - text: "B.Sc. Economics (Data Science) a 3 year course which purposes to level with domain knowledge in Economics, Finance and Data Analysis"
+  
+  utter_semester_plan:
+  - text: "Each Semester ranges from 5-6 months in duration the odd semester starts after summer break around june and even semester starts after winter,It consists of 2 CIA tests a Midsem and a Endsem."
+  - text: "Each Semester ranges from 20-30 weeks in duration the odd semester starts after summer break around june and even semester starts after winter,It consists of 2 CIA tests a Midsem and a Endsem."
+  
+  utter_odd_semester:
+  - text: "Each Odd Semester ranges from 5-6 months in duration the odd semester starts after summer break around june.It consists of 2 CIA tests a Midsem and a Endsem."
+  - text: "Each Odd Semester ranges from 20-30 weeks in duration the odd semester starts after summer break around june.It consists of 2 CIA tests a Midsem and a Endsem."
+  
+  utter_even_semester:
+  - text: "Each Even Semester ranges from 4-5 months in duration the odd semester starts after winter break around december.It consists of 2 CIA tests a Midsem and a Endsem."
+  - text: "Each Even Semester ranges from 16-22 weeks in duration the odd semester starts after winter break around december.It consists of 2 CIA tests a Midsem and a Endsem."
+  
+  utter_job_rate:
+  - text: "Number of offers received: 1315,Number of offers over 20 Lakh: 77,Number of offers over 10 Lakh: 31,Highest offer: 1.17 Crore per annum,Second highest offer: 84.24 Lakh per annum,Average salary for the top 10% selection: 29.52 Lakh per annum,Average salary for the top 25% selection:20.05 Lakh per annum"
+  
+  utter_placements:
+  - text: "Placements at Shiv Nadar University Chennai will be handled by the same team which has churned out excellent placements for SSN over the years."
+  - text: "A comprehensive diagnostic test will be conducted on all the students to make them aware of their strengths and weakness and a training calendar prepared based on the results of this test.the career development centre will also be instrumental in preparing students for various career opportunities and higher education through focused training, industry exposure, lectures by top practitioners from various fields and internships."
+  
+  utter_credit_hour:
+  - text: "A credit hour is the number of hours of classes you will have per week for the number of credits alloted for the subject,Typically in SNU there will 1 hour per credit alloted to a subject."
+  - text: "A credit hour is the number of hours of classes you will have per week for the number of credits alloted for the subject,In Shiv Nadar University there will 1 hour per credit alloted to a subject.For example if there is a 3 credit subject it will have 3 hours of class a week excluding lab sessions."
+  
+  utter_graduation:
+  - text: "There is a 4 year Duration for the courses offered by the school of engineering with 162 credits ranging over the span of 8 semester including a capstone project."
+  - text: "The course duration is 3 year duration till graduation for the courses offered by the school of commerce and humanities over the span of 6 semesters with a total of 143 credits."
+  
+  utter_medals:
+  - text: "Medals and Scholarship will be awarded to students with exceptional Academic and Extracurricular perfomances."
+  
+  utter_contacts:
+  - text: "You can contact SNU chennai with the following number : 7200658175 / 9043567057 / 1800 208 1199 "
+  - text: "The following mail id's can be used to contact : info@snuchennai.edu.in admissions@snuchennai.edu.in"
+
+  utter_snu_ch:
+  - text: "This is the address of Shiv Nadar University Chennai,Rajiv Gandhi Salai (OMR),Kalavakkam – 603 110,Chengalpattu (Dt), Tamil Nadu, India."
+  - text: "SNU Chennai is located in Kalavakkam,Chennai-603110,Tamil Nadu."
+
+  utter_snu_delhi:
+  - text: "SNU Delhi is differnent from SNU Chennai though their founders are the same but the curricullum differs entirely. Also SNU Chennai does not come under SNU Delhi"
+  
+  utter_library:
+  - text: "We have a huge library with wide range of books. Students can borrow books and avail the facility."
+  
+  utter_cafeteria:
+  - text: "Our college cafeteria is a busy centre of student activities. It is situated at the main block and attracts a lot of students with it's wide variety of food at cheap rates. Apart from the main cafeteria we have a lot of small shops within the college"  
+  
+  utter_auditorium:
+  - text: "A huge auditorium with a seating capacity of around 800 people is the major attraction during a lot of events. The Justice Pratap Auditorium has also been a place were a lot of movie shoots have been taken."  
+  
+  utter_best_campus:
+  - text: "Shiv Nadar University Chennai aims to provide an immersive campus experience. Students have access to top-notch academic facilities as well as facilities for competitive sports. Students are encouraged to challenge conventional knowledge, participate in intellectual debates, and pursue various modes of learning and self-expression in the University's courteous and accepting campus environment. the campus provides a wide variety of world-class sporting facilities, both indoor and outdoor, which frequently host state and national level events. "
+
+  utter_SSN_SNU:
+  - text: "SSN and SNU are 2 different institutions run by the same person.  Sri Sivasubramaniya Nadar (SSN) College of Engineering is an autonomous institution affiliated to Anna University, ChennaiSNU (Shiv Nadar University) Chennai is a state-private university legislated by the Govt. of Tamilnadu."  
+  
+  utter_students_affair:
+  - text: "The University supports and funds over 20 clubs and activities. The campus is home to a year round calendar of events."  
+  
+  utter_VC:
+  - text: "Prof. S. K. Bhattacharyya, a prolific researcher, an outstanding academician and an able administrator takes charge of the Shiv Nadar University, Chennai as its founding Vice Chancellor. Prof. Bhattacharyya has served one of the premier technological Institutes in the country, IIT Kharagpur as its Deputy Director, Director (Officiating) and a Professor of Civil Engineering over a period of three decades. He has also served a National Institute, CSIR-Central Building Research Institute, Roorkee as its Director."  
+  
+  utter_admission_schedule:
+  - text: "Candidates can apply through SNUCEE . The shortlisted candidates will be informed regarding their personal interview with respective department to be eligible for final selection. Candidates who have completed their 12th standard board exams are eligible to apply. The exam dates will be intimated shortly"
+
+
+  
 
 session_config:
   session_expiration_time: 60

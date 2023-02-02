@@ -37,6 +37,4 @@ stories:
 - story: bot supplies scholarship info
   steps:
   - intent: scholarship
-    entities:
-    - year
   - action: utter_scholarship
